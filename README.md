@@ -1,2 +1,2 @@
 # hello-world
-i am here to learn more about programming through the HNG internship.
+I am here to learn more about programming through the HNGi7 internship.
